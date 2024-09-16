@@ -102,6 +102,7 @@ ls
 less SRR13076392_S14_L002_.sam
 ```
 (4) Use `shift` + `g` to scroll to the bottom
+![image](https://hackmd.io/_uploads/HJUrZ7B60.png)
 (5)exit by typing q
 ```
 q
@@ -306,6 +307,7 @@ ls
 less SRR13076392_S14_L002_.sam
 ```
 (4)利用 shift+g 查看檔案最底部
+![image](https://hackmd.io/_uploads/HJUrZ7B60.png)
 (5)退出:
 ```
 q
